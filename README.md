@@ -59,4 +59,4 @@ REACT_APP_DEFAULT_TITLE=Browser tab title
 
 This project started as part of Jonas Schmedtmann's React course.
 
-The original course implementation was built with JavaScript. This version was redesigned using TypeScript and enterprise software architecture principles...
+The original course implementation was built with JavaScript. This version was redesigned using TypeScript and enterprise software architecture principles, including a service layer, reusable utilities, custom hooks, and stronger separation of concerns.
