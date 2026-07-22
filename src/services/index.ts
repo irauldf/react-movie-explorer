@@ -1,0 +1,1 @@
+export {getMovieDetail, searchMovies} from "./omdb.service"
