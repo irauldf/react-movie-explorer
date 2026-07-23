@@ -1,6 +1,6 @@
 import { env } from "config/env";
 import { Movie } from "types";
-const BASE_URL = "http://www.omdbapi.com";
+const BASE_URL = "https://www.omdbapi.com";
 
 export async function searchMovies(
   query: string,
